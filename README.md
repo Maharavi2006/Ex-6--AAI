@@ -1,7 +1,7 @@
 <H3>NAME: Mahalakshmi R</H3>
 <H3>REGISTER NO: 212223230117</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:20-05-2025</H3>
+<H3>DATE:04-09-2026</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
